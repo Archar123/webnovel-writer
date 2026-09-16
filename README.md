@@ -37,6 +37,10 @@
 - 📚 **助力记忆与知识库检索**：支持 Embedding、Rerank 等兼容 OpenAI 格式的接口，帮助角色设定、时间线、伏笔和章节内容持续沉淀，减少长篇创作中的遗忘与前后矛盾。
 - 🎁 **Webnovel Writer 用户专属福利**：通过 [专属推广链接](https://www.infistar.cc/register?aff=YBE8GGRE&ref_source=link) 注册并完成首次调用，即可领取 [5美元等值测试额度 / 首充专属优惠]，快速体验更稳定、更连贯的 AI 长篇创作流程！
 
+<a href="https://www.packyapi.ai/register?aff=pJpV" target="_blank"><img src="docs/assets/sponsors/packycode-banner.png" alt="PackyCode · 稳定高效的 API 中转服务，一句话接入主流大模型" width="728"/></a>
+
+感谢 [PackyCode](https://www.packyapi.ai/register?aff=pJpV) 赞助支持 Webnovel Writer！PackyCode 是一家稳定、高效的 API 中转服务商，一句话接入主流大模型。统一域名、统一密钥、智能容灾切换，97% 可用性。人民币 1:1 充值，无汇率无手续费坑，新用户首充立享折扣 + $1 免费体验额度，多分组折扣低至 2 折起，提供专属 Codex/Claude Code 高速通道。[点此链接注册](https://www.packyapi.ai/register?aff=pJpV)，立即开始使用！
+
 Webnovel Writer 用业余时间维护。如果它帮你省下了梳理设定、对齐伏笔的功夫，欢迎来信交流想法、反馈使用体验，或表达对项目的支持：
 
 📮 **ksdflisjdf@gmail.com**
